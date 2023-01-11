@@ -25,3 +25,31 @@ img{
     padding-right: 15px;
     margin: 0 auto;
 }
+.main-nav{
+    display: flex;
+
+}
+.navigation{
+    display: flex;
+    gap: 93px;
+}
+.navigation-list{
+    display: flex;
+    gap: 50px;
+}
+.header-list{
+    display: flex;
+    gap: 30px;
+}
+.header-logo{
+    font-family: 'Raleway';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 31px;
+letter-spacing: 0.03em;
+color: #000;
+}
+.logo{
+    color: #2196F3;  
+}
