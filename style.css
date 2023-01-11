@@ -1,0 +1,27 @@
+body{
+    font-family: 'Roboto', sans-serif;
+
+}
+p, h1, h2, h3, h4, h5, h6{
+    margin: 0;
+}
+ul {
+    padding-left: 0;
+    margin: 0;
+    list-style: none;
+}
+a{
+    text-decoration: none;
+}
+img{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.conteiner{
+    width: 1200px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin: 0 auto;
+}
